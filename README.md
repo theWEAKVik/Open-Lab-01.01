@@ -4,6 +4,6 @@
 2. Ak je číslo menšie ako 10, funkcia vráti boolean hodnotu `true`, v opačnom prípade vráti hodnotu `false`.
 
 Pomôcky: 
-Google: C# how to parse string to int
-Google: C# int.Parse()
-Google: C# int.TryParse()
+* Google: C# how to parse string to int
+* Google: C# int.Parse()
+* Google: C# int.TryParse()
